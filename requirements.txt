@@ -1,0 +1,7 @@
+requests
+openai
+os
+dotenv
+csv
+schedule
+snowflake
